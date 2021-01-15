@@ -1,7 +1,7 @@
 ## 爬蟲
 ### HackCPU 組合語言
 * picture
-![爬蟲結果](https://nohano1l.github.io/ws/midexam/1.png)
+![爬蟲結果](https://raw.githubusercontent.com/nohano1l/ws109a/master/1.png)
 * code1
 ```
 import requests
